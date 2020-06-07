@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="imageview_for_art_work">Imageview for art work</string>
+    <string name="alert_dialog_two_buttons_title">Preview</string>
+</resources>
